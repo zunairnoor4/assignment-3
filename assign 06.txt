@@ -1,0 +1,42 @@
+(1)
+
+Object-oriented programming (OOP) refers to a type of computer programming (software design) in which programmers define the data type of a data structure, and also the types of
+ operations (functions) that can be applied to the data structure.
+
+(2)
+
+Advantages of OOP:
+
+It provides a clear modular structure for programs which makes it good for defining abstract datatypes in which implementation details are hidden.
+
+Objects can also be reused within an across applications.
+
+It makes software easier to maintain.
+
+Reuse also enables faster development.
+
+Through inheritance, we can eliminate redundant code and extend the use of existing classes which is not possible in procedure oriented.
+
+(3)
+
+A function is a piece of code that is called by name. It can be passed data to operate on (i.e. the parameters) and can optionally return data (the return value). All data that 
+is passed to a function is explicitly passed. A method is a piece of code that is called by a name that is associated with an object.
+
+(4)
+Class:
+In object-oriented programming, a class is an extensible program-code-template for creating objects, providing initial values for state (member variables) and implementations of
+ behavior (member functions or methods). ... In these languages, a class that creates classes is called a metaclass.
+
+Object:
+An object, in object-oriented programming (OOP), is an abstract data type created by a developer. It can include multiple properties and methods and may even contain other 
+objects. In most programming languages, objects are defined as classes. Objects provide a structured approach to programming.
+
+Attribute:
+An attribute is a specification that defines a property of an object, element, or file. It may also refer to or set the specific value for a given instance of such. 
+For clarity, attributes should more correctly be considered metadata.
+
+Behaviour:
+Behavioral Programming (BP) is an approach and technique for software development, which enables incremental development in a natural way. A behavioral application consists 
+of threads of behavior each of which represents an independent scenario that the system should and shouldn't follow.
+
+
